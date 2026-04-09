@@ -1,10 +1,28 @@
 # 🤖 AI Workforce Risk Analytics Platform (ML + Streamlit)
 
+[![Live App](https://img.shields.io/badge/Live-App-Click%20Here-green)](https://ai-risk-workforce-analytics-gppaksyecfnlj8p5a5u2m2.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 The **AI Workforce Risk Analytics Platform** is an end-to-end machine learning project that analyzes how Artificial Intelligence is transforming jobs, salaries, and workforce risks between **2020 and 2026**.
 
 This project focuses on building a **custom risk intelligence system** and deploying it through an **interactive Streamlit dashboard**, enabling users to analyze workforce trends and predict job risk levels.
+
+---
+
+## 🌐 Live Application
+
+🚀 **Access the deployed app:**
+👉 https://ai-risk-workforce-analytics-gppaksyecfnlj8p5a5u2m2.streamlit.app/
+
+### 🔹 What you can do:
+
+* 📊 Explore workforce analytics dashboard
+* 🔍 Filter by industry and country
+* 🤖 Predict job risk using AI model
+* 📈 Analyze trends in salary and AI adoption
 
 ---
 
@@ -81,7 +99,7 @@ This created a **balanced and realistic target variable** for machine learning.
 * **Accuracy:** 91.49%
 * **Cross Validation Scores:**
 
-  * [0.933, 0.917, 0.938, 0.926, 0.898]
+  * 0.933, 0.917, 0.938, 0.926, 0.898
 * **Mean CV Accuracy:** **92.25%**
 
 ---
@@ -179,7 +197,7 @@ It provides a **data-driven approach to workforce risk analysis** and helps user
 MBA (Business Analytics)
 
 📧 [kotadiaaadish1234@gmail.com](mailto:kotadiaaadish1234@gmail.com)
-🔗 LinkedIn: www.linkedin.com/in/aadish-kotadia-9a4957241
+🔗 LinkedIn: https://www.linkedin.com/in/aadish-kotadia-9a4957241
 💻 GitHub: https://github.com/Aadish2003
 
 ---
