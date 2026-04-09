@@ -179,8 +179,8 @@ It provides a **data-driven approach to workforce risk analysis** and helps user
 MBA (Business Analytics)
 
 📧 [kotadiaaadish1234@gmail.com](mailto:kotadiaaadish1234@gmail.com)
-🔗 LinkedIn: Aadish Kotadia
-💻 GitHub: Aadish Kotadia
+🔗 LinkedIn: www.linkedin.com/in/aadish-kotadia-9a4957241
+💻 GitHub: https://github.com/Aadish2003
 
 ---
 
